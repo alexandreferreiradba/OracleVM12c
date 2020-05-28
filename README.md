@@ -1,5 +1,5 @@
 # OracleVM12c
-Tutorial para criar uma VM com Oracle Database 12c sobre Oracle Linux 6.7
-Os procedimento descritos nesse tutorial se aplicam a criação de um ambiente para testes e estudos. NÃO
-devem ser seguidos para instalação em ambiente de produção, nesse caso siga os procedimentos do site
-“My Oracle Support”.
+Tutorial to create an Oracle Database 12c VM on Oracle Linux 6.7
+
+The procedures here apply just to a study and training environment, it shouldn’t to be used on a production
+environment, for that please refer to “My Oracle Support” site.
